@@ -1,0 +1,7 @@
+{
+    Filter = {
+        Bundles = (
+            "com.sf-express.waybillcn"
+        );
+    };
+}

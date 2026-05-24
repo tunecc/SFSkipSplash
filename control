@@ -1,0 +1,9 @@
+Package: com.tune.sfskipsplash
+Name: SFSkipSplash
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 跳过顺丰开屏广告，基于9.87.4开发，不生效请清理一次缓存
+Maintainer: Tune
+Author: Tune
+Section: Tweaks
+Depends: mobilesubstrate
